@@ -1,4 +1,4 @@
-### Hi there, I'm Adrian
+### Hi there
 
 I am a lover of sports, yoga and technology. Since I was little I have a fascination with computers, I love to test operating systems, programs and the different things that I could achieve with them. I am currently developing applications and web pages, and I would like to share some of them with you.
 
