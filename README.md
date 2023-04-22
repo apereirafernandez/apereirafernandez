@@ -1,6 +1,6 @@
 ### Hi there
 
-Hi there! I'm a lover of sports, yoga, and technology. Ever since I was young, I've been fascinated by computers and enjoy experimenting with different operating systems, programs, and tools. Currently, I specialize in developing web applications and sites using technologies such as JavaScript, HTML, CSS, React, and Node.js, among others. You can find some of my projects on my GitHub profile, ranging from small applications to larger, more complex e-commerce projects. I love sharing my knowledge and collaborating on interesting projects, so don't hesitate to get in touch if you have something in mind. I'm excited to connect with you!
+Hi there! My name is [insert your name here], and I'm a sports, yoga, and technology enthusiast. Ever since I was young, I've been fascinated by computers and enjoy experimenting with different operating systems, programs, and tools. Currently, I specialize in developing web applications and sites using a variety of technologies, including JavaScript, HTML, CSS, React, Vue, and Node.js, among others. I also have experience with Docker, MongoDB, and Linux environments. On my GitHub profile, you can find some of my projects, ranging from small applications to larger, more complex e-commerce projects. I love sharing my knowledge and collaborating on interesting projects, so feel free to reach out if you have something in mind. I'm excited to connect with you!
 
 ### Connect with me:
 
