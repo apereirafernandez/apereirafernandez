@@ -1,6 +1,6 @@
 ### Hi there
 
-I am a lover of sports, yoga and technology. Since I was little I have a fascination with computers, I love to test operating systems, programs and the different things that I could achieve with them. I am currently developing applications and web pages, and I would like to share some of them with you.
+Hi there! I'm a lover of sports, yoga, and technology. Ever since I was young, I've been fascinated by computers and enjoy experimenting with different operating systems, programs, and tools. Currently, I specialize in developing web applications and sites using technologies such as JavaScript, HTML, CSS, React, and Node.js, among others. You can find some of my projects on my GitHub profile, ranging from small applications to larger, more complex e-commerce projects. I love sharing my knowledge and collaborating on interesting projects, so don't hesitate to get in touch if you have something in mind. I'm excited to connect with you!
 
 ### Connect with me:
 
