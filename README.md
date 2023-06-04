@@ -2,6 +2,8 @@
 
 Hi there! My name is Adrian, and I'm a sports, yoga, and technology enthusiast. Ever since I was young, I've been fascinated by computers and enjoy experimenting with different operating systems, programs, and tools. Currently, I specialize in developing web applications and sites using a variety of technologies, including React, Vue, and Node.js, among others. I also have experience with Docker, MongoDB, and Linux environments. On my GitHub profile, you can find some of my projects, ranging from small applications to larger, more complex e-commerce projects. I love sharing my knowledge and collaborating on interesting projects, so feel free to reach out if you have something in mind. I'm excited to connect with you!
 
+"Hey there! I'm Adrian, a sports, yoga, and tech aficionado. Ever since I was a kid, I've been hooked on computers, diving into various operating systems, programs, and tools like a kid in a candy store. These days, I specialize in crafting sleek web apps and sites using an arsenal of tech goodies, including React, Vue, and Node.js, to name a few. I'm also well-versed in Docker, Linux environments. Swing by my GitHub profile to explore a collection of my brainchildren, ranging from nifty little apps to elaborate e-commerce ventures. I'm all about sharing knowledge and teaming up on exciting projects, so don't hesitate to drop me a line if you have something cool brewing. Let's connect and make magic happen!"
+
 ### Connect with me:
 
 <!-- [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
