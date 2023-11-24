@@ -1,6 +1,6 @@
 ### Hi there
 
-"Hey there! I'm Adrian, a sports, yoga, and tech aficionado. Ever since I was a kid, I've been hooked on computers, diving into various operating systems, programs, and tools like a kid in a candy store. These days, I specialize in crafting sleek web apps and sites using an arsenal of tech goodies, including React, Vue, and Node.js, to name a few. I'm also well-versed in Docker, Linux environments. Swing by my GitHub profile to explore a collection of my brainchildren, ranging from nifty little apps to elaborate e-commerce ventures. I'm all about sharing knowledge and teaming up on exciting projects, so don't hesitate to drop me a line if you have something cool brewing. Let's connect and make magic happen!"
+Hey there! I'm Adrian, a sports, yoga, and tech aficionado. Ever since I was a kid, I've been hooked on computers, diving into various operating systems, programs, and tools like a kid in a candy store. These days, I specialize in crafting sleek web apps and sites using an arsenal of tech goodies, including React, Vue, and Node.js, to name a few. I'm also well-versed in Docker, Linux environments. Swing by my GitHub profile to explore a collection of my brainchildren, ranging from nifty little apps to elaborate e-commerce ventures. I'm all about sharing knowledge and teaming up on exciting projects, so don't hesitate to drop me a line if you have something cool brewing. Let's connect and make magic happen!
 
 ### Connect with me:
 
