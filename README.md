@@ -1,6 +1,7 @@
 ### Hi there
+Software Developer focused on crafting robust and efficient applications. I work across a broad technology stack, relying on a solid understanding of scalable system design and the end-to-end development lifecycle. I value clean code, knowledge sharing, and active collaboration on technical challenges. Outside of software, I maintain focus and discipline through sports and yoga.
 
-Hey there! I'm a sports, yoga, and tech aficionado. Ever since I was a kid, I've been hooked on computers, diving into various operating systems, programs, and tools like a kid in a candy store. These days, I specialize in crafting sleek web apps and sites using an arsenal of tech goodies, including React, Vue, and Node.js, to name a few. I'm also well-versed in Docker, Linux environments. Swing by my GitHub profile to explore a collection of my brainchildren, ranging from nifty little apps to elaborate e-commerce ventures. I'm all about sharing knowledge and teaming up on exciting projects, so don't hesitate to drop me a line if you have something cool brewing. Let's connect and make magic happen!
+Feel free to explore my repositories below or reach out to discuss technology.
 
 ### Connect with me:
 
